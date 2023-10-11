@@ -7,13 +7,15 @@ The Pharo Foundation is a private organisation based in the United Kingdom. Sinc
 3. Water
 4. Agriculture
 
+Find out more from pharofoundation.org
+
 ## Our dev work
 
 We the dev team support some internal tools mostly built on the Web (PHP, HTML, Mysql). We also have a fully fledged research and evaluation department, popularly known as the RED team that does interesting things in the data and AI space using R, Python and Stata, with a focus on Pharo Foundation four pillars.
 
 ## How to Contribute
 
-Reach out at dev@pharofoundation.com
+Reach out at dev@pharofoundation.org
 
 <!--
 
