@@ -11,7 +11,7 @@ Find out more from pharofoundation.org
 
 ## Our dev work
 
-We the dev team support some internal tools mostly built on the Web (PHP, HTML, Mysql). We also have a fully fledged research and evaluation department, popularly known as the RED team that does interesting things in the data and AI space using R, Python and Stata, with a focus on Pharo Foundation four pillars.
+We the dev team support some internal tools mostly built on the Web (```PHP```, ```HTML```, ```Mysql```). We also have a fully fledged research and evaluation department, popularly known as the RED team that does interesting things in the data and AI space using ```R```, ```Python``` and ```Stata```, with a focus on Pharo Foundation's four main pillars.
 
 ## How to Contribute
 
