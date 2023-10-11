@@ -7,7 +7,7 @@ The Pharo Foundation is a private organisation based in the United Kingdom. Sinc
 3. Water
 4. Agriculture
 
-Find out more from pharofoundation.org
+Find out more from here (pharofoundation.org)
 
 ## Our dev work
 
